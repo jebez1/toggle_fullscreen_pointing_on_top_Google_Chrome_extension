@@ -11,7 +11,7 @@ So feel free to pay & publish it .
 Source code :
 
 manifest.json :
-{"manifest_version":3,"name":"fullscreen pointing on top","version":"1","content_scripts":[{"js":["!.js"],"matches":["<all_urls>"]}]}
+{"manifest_version":3,"name":"toggle fullscreen pointing on top","version":"1","content_scripts":[{"js":["!.js"],"matches":["<all_urls>"]}]}
 
 !.js :
 $=false
