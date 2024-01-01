@@ -14,11 +14,11 @@ manifest.json :
 {"manifest_version":3,"name":"toggle fullscreen pointing on top","version":"1","content_scripts":[{"js":["!.js"],"matches":["<all_urls>"]}]}
 
 !.js :
-$=false
-onclick=()=>{if(!$){document.documentElement.requestFullscreen()
-$=true}}
-onmousemove=e=>{if($&&e.y==0){document.exitFullscreen()
+$=true
+onclick=()=>{if($){document.documentElement.requestFullscreen()
 $=false}}
+onmousemove=e=>{if(!$&&e.y==0){document.exitFullscreen()
+$=true}}
 
 How to install the extension :
 https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked .
