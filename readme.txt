@@ -8,6 +8,9 @@ I don't wanna pay the US $5.00 registration fee to publish the extension , I thi
 
 So feel free to pay & publish it .
 
+Why enter fullscreen left clicking on the page , why don't just use the mouseenter event ; no need to click ?
+document.documentElement.requestFullscreen() needs a user gesture , to avoid abuse .
+
 Download the extension :
 https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fjebez1%2Ftoggle_fullscreen_pointing_on_top_Google_Chrome_extension%2Ftree%2Fmain%2Fextension%2520toggle%2520fullscreen%2520pointing%2520on%2520top
 
