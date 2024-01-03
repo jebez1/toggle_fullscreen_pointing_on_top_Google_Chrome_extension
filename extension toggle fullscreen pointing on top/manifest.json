@@ -1,1 +1,0 @@
-{"manifest_version":3,"name":"toggle fullscreen pointing on top","version":"1","content_scripts":[{"js":["!.js"],"matches":["<all_urls>"]}]}
