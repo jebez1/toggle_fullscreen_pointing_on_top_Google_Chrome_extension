@@ -12,7 +12,7 @@ Why enter fullscreen left clicking on the page , why don't just use the mouseent
 document.documentElement.requestFullscreen() needs a user gesture , to avoid abuse .
 
 Download the extension :
-https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fjebez1%2Ftoggle_fullscreen_pointing_on_top_Google_Chrome_extension%2Ftree%2Fmain%2Fextension%2520toggle%2520fullscreen%2520pointing%2520on%2520top
+https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fjebez1%2Ftoggle_fullscreen_pointing_on_top_Google_Chrome_extension%2Ftree%2Fmain%2Ftoggle%2520fullscreen%2520pointing%2520on%2520top
 
 How to install the extension :
 https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked .
