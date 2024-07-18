@@ -15,8 +15,7 @@ Update :
 chrome://flags/#automatic-fullscreen-content-setting
 https://chromestatus.com/feature/6218822004768768
 is a lie for :
-Chromium Version 126.0.6478.126 (Official Build) built on Debian 12.5, running on Debian 12.6 (64-bit)
-Google Chrome Version 126.0.6478.126 (Official Build) (64-bit) .
+Google Chrome Version 126.0.6478.182 (Official Build) (64-bit) , on Debian stable .
 
 Download the extension :
 https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fjebez1%2Ftoggle_fullscreen_pointing_on_top_Google_Chrome_extension%2Ftree%2Fmain%2Ftoggle%2520fullscreen%2520pointing%2520on%2520top
