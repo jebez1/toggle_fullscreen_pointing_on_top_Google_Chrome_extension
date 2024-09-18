@@ -5,10 +5,9 @@ https://support.google.com/chrome/thread/67228761/how-to-show-tabs-bar-in-chrome
 
 Why github.com , not chromewebstore.google.com ?
 I don't wanna pay the US $5.00 registration fee to publish the extension , I think Google LLC has enough money like that .
-
 So feel free to pay & publish it .
 
-Why enter fullscreen left clicking on the page , why don't just use the mouseenter event ; no need to click ?
+Why enter fullscreen left clicking on the page , why don't just use the mouseenter event ; no need to click ( should be/!.js ) ?
 document.documentElement.requestFullscreen() needs a user gesture , to avoid abuse .
 
 Update :
